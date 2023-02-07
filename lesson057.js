@@ -1,0 +1,1 @@
+const myList = [["Mother One", 65], ["Shit", 5846], ["Second hand", 45], ["Four legs", 79], ["Six pistols", 21]];
